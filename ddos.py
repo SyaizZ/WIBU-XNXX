@@ -42,4 +42,4 @@ for y in range(threads_bos):
     wb = threading.Thread(target=bos)
     wb.start()
     wb = threading.Thread(target=bos2)
-    wb.start();
+    wb.start() ;
